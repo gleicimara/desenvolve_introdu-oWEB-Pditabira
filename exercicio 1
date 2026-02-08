@@ -1,0 +1,8 @@
+Máquina Cliente (ex: seu computador/celular): É o dispositivo que inicia a requisição de um serviço ou conteúdo. Quando você abre um navegador e digita um site, seu computador é o cliente pedindo informações.
+Máquina Servidora (ex: servidores do Google/Amazon): É um computador de alto desempenho que recebe, processa e responde às solicitações dos clientes. Ele armazena os sites, arquivos e bancos de dados, "servindo" o conteúdo requisitado pelo cliente. 
+Definição: Um domínio é o endereço amigável de um site na internet (ex: google.com). Ele serve para traduzir o endereço IP (números complexos, ex: 142.250.187.100) em texto memorizável para humanos.
+Importância:
+Identificação: Permite que usuários encontrem facilmente um site na web sem decorar números IP.
+Marca e Credibilidade: Funciona como a identidade digital, garantindo que ninguém mais utilize o nome da sua empresa.
+Profissionalismo: Essencial para e-mails e presença digital. 
+ O IP retornado (para o IPv4) geralmente é um endereço da rede do Google, como 142.250.xxx.xxx (o número exato pode variar dependendo da sua localização geográfica e momento da requisição, mas costuma ser um IP desta faixa). 
